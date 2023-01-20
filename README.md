@@ -2,10 +2,11 @@
 Competitive Programming
 
 ## atcoder
-### ABC
 AtCoder is a programming contest website based in **Japan**.
 
-AtCoder has a rating system and we will be colored according to our rating.
+### ABC
+It has a rating system and we will be colored according to our rating.
+
 #### ABC282
 https://github.com/spica-jp/competitive-programming/tree/main/atcoder/abc/abc282
 
