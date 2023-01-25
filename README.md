@@ -12,7 +12,7 @@ It has a rating system and we will be colored according to our rating.
 https://github.com/spica-jp/competitive-programming/tree/main/atcoder/abc/abc282
 
 ## algo-method
-The Algo Method is a web-based learning content consisting of textbook parts and exercise parts.
+Algo Method is a web-based learning content consisting of textbook parts and exercise parts.
 
 Textbook parts allow us to learn programming and information science.
 
